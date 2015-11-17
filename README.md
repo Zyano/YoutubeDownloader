@@ -11,9 +11,10 @@ I currently don't have a time frame on a possible release of the source code beh
 ## Currently being worked on
 * Login system foreach user in an effort to support private playlists rather than hidden and public.
 * Complete remake to the way conversion is handled in order to allow custom format.
-
+* Behinds the scenes redesign of the converter library inorder to support a more natural flow of DB related tasks.
+* 
 ## Far in the future
-I would love to hear feedback in ideas in this section. These are mostly things I personally think could be "nice" to have. There for I don't consider them a high priority.
+I would love to hear feedback and ideas in this section. These are mostly things I personally think could be "nice" to have. There for I don't consider them a high priority.
 * Better randomize function for the web player.
 * Internal playlists for the site it self.
 * Support for video downloading as well.
